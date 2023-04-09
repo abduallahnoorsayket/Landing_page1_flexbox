@@ -59,9 +59,9 @@ p {
 }
 /* NAVBAR  */
 .navbar {
-  background-color: purple;
+  background-color: #53bf9d;
   height: 70px;
-  padding: 0 30px;
+  padding: 40px 30px;
 }
 .navbar h1 {
   font-size: 30px;
@@ -86,14 +86,14 @@ p {
 }
 .navbar a:hover {
   color: #9867c5;
-  border-bottom: 3px solid #9867c5;
+  border-bottom: 3px solid #53bf9d;
 }
 
 /* SHOWCASE AREA */
 
 .showcase {
   height: 300px;
-  background-color: purple;
+  background-color: #53bf9d;
 }
 
 /* Adds margin below the text */
@@ -131,7 +131,7 @@ p {
 .btn {
   border-radius: 6px;
   padding: 12px 20px;
-  background: #9867c5;
+  background: #f94c66;
   border: none;
   margin-left: 10px;
   color: white;
@@ -189,7 +189,7 @@ p {
   width: 800px;
 }
 .stats .fa {
-  color: purple;
+  color: #53bf9d;
 }
 
 /* TESTIMONIALS */
@@ -223,7 +223,7 @@ p {
 
 .circle {
   background-color: transparent;
-  border: 3px solid purple;
+  border: 3px solid #53bf9d;
   height: 90px;
   position: relative;
   top: -30px;
@@ -237,7 +237,7 @@ p {
 /* FOOTER */
 
 footer {
-  background-color: purple;
+  background-color: #53bf9d;
   padding: 20px 10px;
 }
 
